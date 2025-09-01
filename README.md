@@ -1,4 +1,3 @@
-````markdown
 # 📧 ML-Based Email Spam & Phishing Detection SaaS  
 
 An end-to-end **Machine Learning-powered SaaS application** to detect and classify **spam** and **phishing emails**.  
@@ -58,8 +57,6 @@ graph TD
     F --> B
     B --> G[Display Results in UI]
 ````
-
----
 
 ## ⚙️ Installation & Setup
 
