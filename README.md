@@ -44,18 +44,6 @@ This project integrates **ML models (Naïve Bayes, One-Class SVM)** with a **Fla
 
 ---
 
-## 🏗️ System Architecture  
-
-graph TD
-    A[User Input - Email Text] --> B[React Frontend]
-    B -->|API Request| C[Flask Backend]
-    C --> D[Spam Detection Model (Naïve Bayes)]
-    C --> E[Phishing Detection Model (One-Class SVM)]
-    D --> F[JSON Response - Spam Result]
-    E --> F[JSON Response - Phishing Result]
-    F --> B
-    B --> G[Display Results in UI]
-
 ## ⚙️ Installation & Setup
 
 ### 🔧 Prerequisites
