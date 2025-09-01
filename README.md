@@ -1,5 +1,3 @@
-Perfect ✅ I went through your attached presentation. Based on it, here’s a **professionally structured `README.md`** for your GitHub repo:
-
 ---
 
 ````markdown
@@ -106,13 +104,6 @@ npm start
 
 ---
 
-## 🖼️ Screenshots
-
-| Dark Mode UI                          | Spam Detection Result              | Phishing Detection Result                  |
-| ------------------------------------- | ---------------------------------- | ------------------------------------------ |
-| ![Dark Mode](docs/screenshots/ui.png) | ![Spam](docs/screenshots/spam.png) | ![Phishing](docs/screenshots/phishing.png) |
-
----
 
 ## 📌 Results
 
