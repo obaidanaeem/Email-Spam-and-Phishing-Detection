@@ -46,7 +46,6 @@ This project integrates **ML models (Naïve Bayes, One-Class SVM)** with a **Fla
 
 ## 🏗️ System Architecture  
 
-```mermaid
 graph TD
     A[User Input - Email Text] --> B[React Frontend]
     B -->|API Request| C[Flask Backend]
@@ -56,7 +55,6 @@ graph TD
     E --> F[JSON Response - Phishing Result]
     F --> B
     B --> G[Display Results in UI]
-````
 
 ## ⚙️ Installation & Setup
 
@@ -131,8 +129,4 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Authors
 
-* **Obaida Naeem** – Project Lead & Developer
-
----
-
-```
+* **Obaida Naeem** – Project Developer
